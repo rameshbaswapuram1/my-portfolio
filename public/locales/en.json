@@ -50,11 +50,6 @@
         "duration": "(Oct 2023 - Jan 2025)"
       },
       {
-        "title": "FullStack Developer",
-        "company": "Gincat Software Solutions LLP",
-        "duration": "(Aug 2022 - Sep 2023)"
-      },
-      {
         "title": "Content Management Advisor",
         "company": "Data Core Technologies Limited",
         "duration": "(Dec 2021 - Aug 2022)"
@@ -117,7 +112,7 @@
       }
     ]
   },
-  
+
   "education": {
     "title": "Educations",
     "list": [
@@ -141,7 +136,7 @@
       }
     ]
   },
-  
+
   "contact": {
     "title": "CONTACT",
     "subHeading": "Contact with me",
@@ -165,10 +160,8 @@
       "stackOverflow": "https://stackoverflow.com/users/24862926/ramesh-goud"
     }
   },
-    "footer": {
+  "footer": {
     "portfolioBy": "Portfolio by",
     "star": "Star"
   }
-
-
 }
