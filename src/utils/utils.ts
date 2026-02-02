@@ -3,5 +3,5 @@ export const links = {
   linkedIn: "https://linkedin.com/in/yourprofile",
   stackOverflow: "https://stackoverflow.com/users/24862926/ramesh-goud",
   resumeDrive:
-    "https://drive.google.com/file/d/13wO_VnroQj68uRlcGGLzrCwKB8RX7moU/view?usp=drive_link",
+    "https://drive.google.com/file/d/16P-O2W4gS5w5ckqi5tpxhTSUft871uIB/view?usp=drive_link",
 };
